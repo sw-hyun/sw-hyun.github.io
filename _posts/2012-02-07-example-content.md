@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+description: This is a random content.
 ---
 
 
