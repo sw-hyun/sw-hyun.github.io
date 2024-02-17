@@ -2,12 +2,7 @@
 layout: page
 title: About
 ---
-![profile](/public/300x300_profile.jpg)
-<sup>{{ site.author.name }}</sup>
-
-This is my personal blog where I write about anything that I want to. I am completely unqualified to write about some of these topics, so please take all my posts with a grain of salt.
-
 ## About the author
-I'm a high school student from South Korea planning to study physics abroad. My areas of interest within physics are mathematical physics and philosophy of physics, but I am also interested in topics like education, neuroscience, artificial intelligence, and epistemology. 
+Seungwon Hyun is a high school student from South Korea planning to study physics abroad. His areas of interest within physics are cosmology and philosophy of physics, but he is also interested in education, neuroscience, artificial intelligence, epistemology, and ontology.
 
 If you have any questions or suggestions, please contact me via my email: **wonseunghyun248@gmail.com**.
